@@ -17,7 +17,7 @@
 **The game includes terrain and/or obstacles**: Custom walls and an arch were created using **ProBuilder**.
 
 **The game includes a hand-held weapon with which the player can influence the world**: The player cannot trigger the shooting animation until they pick up the weapon in the scene.  
-> However, the weapon does not perform any action. Implementing shooting direction proved challenging due to the third-person perspective—the camera does not always align with the character’s facing direction. Additionally, the "Firing Rifle" animation points the gun upwards rather than forward.
+> However, the weapon does not perform any action. Implementing shooting direction is challenging due to the third-person perspective—the camera does not always align with the character’s facing direction. Additionally, the "Firing Rifle" animation points the gun upwards rather than forward.
 
 **The game has a clear objective**: Catch all the rats to win the game.
 
