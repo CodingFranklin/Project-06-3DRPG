@@ -4,7 +4,7 @@
 
 **The camera follows the movement of the player**: The camera smoothly follows the player at all times.
 
-**The player's model is animated**: The "Firing Rifle" animation from Mixamo.com is applied. *(Note: No actual shooting effect is included—only the pose.)*
+**The player's model is animated**: The "Firing Rifle" animation from Mixamo.com is applied. *(Note: No shooting effect, just a pose.)*
 
 **Includes at least one AI agent**: There are two types of AI agents: **NPC** and **Rats**.  
 - The NPC remains stationary and constantly looks at the player. A small canvas is attached to the NPC showing the message: *"Hi, Adventurer!"*  
