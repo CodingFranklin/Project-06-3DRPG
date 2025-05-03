@@ -23,7 +23,7 @@
 
 ## References to resources used in the project
 - **Materials**: https://freepbr.com/  
-- **Gun Model & Rat Model**: https://free3d.com/  
+- **Gun & Rat & NPC Model**: https://free3d.com/  
 - **Character/Animation**: https://www.mixamo.com/
 
 ## Created by
